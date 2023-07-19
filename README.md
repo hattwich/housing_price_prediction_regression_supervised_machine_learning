@@ -10,5 +10,5 @@ training the models
 evaluating their performance 
 
 Notebooks
-[Notebook 1](housing_kaggle_competitiopn_1.ipynb): using variance threshold, Kbest, randomforestregressor
+[Notebook 1](housing_kaggle_competitiopn_1.ipynb): using variance threshold, Kbest, randomforestregressor\
 [Notebook 2](housing_kaggle_competitiopn_1.ipynb): using variance threshold, Kbest, GradientBoostingRegressor
