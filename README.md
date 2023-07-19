@@ -1,6 +1,6 @@
-## housing pricen prediction using regression in supervised machine-learning
+### housing pricen prediction using regression in supervised machine-learning
 
-### objective
+#### objective
 predicting housing prices via supervised machine learning techniques
 
 understanding the context
@@ -9,6 +9,6 @@ pre-processing the data
 training the models
 evaluating their performance 
 
-Notebooks
+#### Notebooks
 [Notebook 1](housing_kaggle_competitiopn_1.ipynb): using variance threshold, Kbest, randomforestregressor\
 [Notebook 2](housing_kaggle_competitiopn_1.ipynb): using variance threshold, Kbest, GradientBoostingRegressor
